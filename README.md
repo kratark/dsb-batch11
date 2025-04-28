@@ -9,7 +9,7 @@ My data science and analytic projects 🔥🔥🔥🔥🔥
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret
 
-I love ` R programming`. ( in line code)
+I love `R programming`. ( in line code)
 
 ## Code Block
 ```sql
