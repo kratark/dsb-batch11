@@ -22,5 +22,4 @@ reach out to me at chanchawat.pds@gmail.com
 ## website : [Data Dajai ❤️](https://datadajai.wordpress.com)
 
 ## Image 
-![calm]([https://images.pexels.com/photos/40784/drops-of-water-water-nature-liquid-40784.jpeg](https://datadajai.wordpress.com/wp-content/uploads/2025/02/pexels-photo-3662845.jpeg))
-
+![calm](https://datadajai.wordpress.com/wp-content/uploads/2025/02/pexels-photo-3662845.jpeg)
