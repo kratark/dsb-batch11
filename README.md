@@ -19,7 +19,7 @@ SELECT "hello world" FROM bootcamp;
 ## Contact Me
 reach out to me at chanchawat.pds@gmail.com
 
-## website : ![https://datadajai.wordpress.com/](link)
+## website : ![Data Dajai ❤️](https://datadajai.wordpress.com)
 
 ## Image 
 ![calm](https://images.pexels.com/photos/40784/drops-of-water-water-nature-liquid-40784.jpeg)
