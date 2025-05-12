@@ -4,9 +4,9 @@ My data science and analytic projects 🔥🔥🔥🔥🔥
 ## My Personal Projects
 
 1. Dashboard 
-2. Data Visualization by R
-3. R Programming - Pao Ying Chub
-4. Looker GA4 Dashboard
+2. R Programming - Pao Ying Chub
+3. R Programming - Data Transformation
+4. R Programming - Data Visualization
 5. Linear Regression Model using caret
 
 I love `R programming`. ( in line code)
