@@ -20,6 +20,4 @@ SELECT "hello world" FROM bootcamp;
 reach out to me at chanchawat.pds@gmail.com
 
 ## website : [Data Dajai ❤️](https://datadajai.wordpress.com)
-
-## Image 
 ![calm](https://datadajai.wordpress.com/wp-content/uploads/2025/02/pexels-photo-3662845.jpeg)
