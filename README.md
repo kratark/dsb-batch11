@@ -7,8 +7,10 @@ My data science and analytic projects 🔥🔥🔥🔥🔥
 2. R Programming - Pao Ying Chub
 3. R Programming - Data Transformation
 4. R Programming - Data Visualization
-5. Linear Regression Model using caret
-
+5. R Programming - Linear Regression
+6. R Programming - Logistic Regression
+7. R Programming - K-Nearest Neighbors
+   
 I love `R programming`. ( in line code)
 
 ## Code Block
