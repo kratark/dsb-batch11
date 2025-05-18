@@ -22,4 +22,6 @@ SELECT "hello world" FROM bootcamp;
 reach out to me at chanchawat.pds@gmail.com
 
 ## website : [Chanchawat ✅]([https://datadajai.wordpress.com](https://chanchawat.wordpress.com/))
+
+## Learning by Sharing เรียน ๆ แชร์ ๆ
 ![calm](https://chanchawat.wordpress.com/wp-content/uploads/2025/02/pexels-photo-3662845.jpeg)
