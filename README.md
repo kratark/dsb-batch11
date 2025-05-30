@@ -13,15 +13,13 @@ My data science and analytic projects 🔥🔥🔥🔥🔥
    
 I love `R programming`. ( in line code)
 
-## Code Block
-```sql
-SELECT "hello world" FROM bootcamp;
-```
+## My Certificates
+[Certified Professional Data Analyst](https://badgr.com/public/assertions/B5xcktRZTU6QRdyhbNfGkg?identity__email=chanchawat.pds@gmail.com)
 
 ## Contact Me
 reach out to me at chanchawat.pds@gmail.com
 
-## website : [Chanchawat ✅]([https://datadajai.wordpress.com](https://chanchawat.wordpress.com/))
+## website : [Chanchawat ✅]((https://chanchawat.wordpress.com/))
 
 ## Learning by Sharing เรียน ๆ แชร์ ๆ
 ![calm](https://chanchawat.wordpress.com/wp-content/uploads/2025/02/pexels-photo-3662845.jpeg)
