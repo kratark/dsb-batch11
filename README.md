@@ -10,6 +10,7 @@ My data science and analytic projects 🔥🔥🔥🔥🔥
 5. R Programming - Linear Regression
 6. R Programming - Logistic Regression
 7. R Programming - K-Nearest Neighbors
+8. Python - Get Data from Public API (pokemon)
    
 I love `R programming`. ( in line code)
 
